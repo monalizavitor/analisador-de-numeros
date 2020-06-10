@@ -56,7 +56,7 @@ function finish() {
         
         res.innerHTML += `<p>Foram inseridos <strong>${total}</strong> números.<p/>`
         res.innerHTML += `<p>O maior valor inserido foi <strong>${maior}</strong>.<p/>`
-        res.innerHTML += `<p>A média de desses valores é <strong>${media}</strong>.<p/>`
+        res.innerHTML += `<p>A média desses valores é <strong>${media}</strong>.<p/>`
         
     }
 }
